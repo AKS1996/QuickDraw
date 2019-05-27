@@ -1,0 +1,6 @@
+*.pyc
+*.png
+*.npy
+*.h5
+QuickDraw/labels
+QuickDraw/features
